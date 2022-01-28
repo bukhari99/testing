@@ -1,0 +1,9 @@
+[11-Jul-2021 11:57:44 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/bpfkmeda/public_html/bpfk/application/controllers/master/Kelurahan.php on line 35
+[11-Jul-2021 11:58:03 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/bpfkmeda/public_html/bpfk/application/controllers/master/Kelurahan.php on line 35
+[11-Jul-2021 12:01:45 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/bpfkmeda/public_html/bpfk/application/controllers/master/Kelurahan.php on line 39
+[11-Jul-2021 12:01:50 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/bpfkmeda/public_html/bpfk/application/controllers/master/Kelurahan.php on line 39
+[11-Jul-2021 12:51:10 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/bpfkmeda/public_html/bpfk/application/controllers/master/Kelurahan.php on line 35
+[11-Jul-2021 12:51:20 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/bpfkmeda/public_html/bpfk/application/controllers/master/Kelurahan.php on line 35
+[11-Jul-2021 17:59:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '>' in /home/bpfkmeda/public_html/tld-badge/application/views/_partial/sidebar.php on line 55
+[11-Jul-2021 18:00:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/bpfkmeda/public_html/tld-badge/application/views/_partial/sidebar.php on line 176
+[11-Jul-2021 18:18:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/bpfkmeda/public_html/tld-badge/application/views/_partial/sidebar.php on line 176
